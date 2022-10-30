@@ -2,8 +2,8 @@
 
 <h1 align="center">
 
-![screely-1657192063639](https://user-images.githubusercontent.com/49053623/177759844-3610bacb-c767-40d8-9a37-a527a1fd0e2b.png)
-  Movies-zone
+  ![newUpgrade](./moviezone.jpg)
+    Movies-zone
   <br>
 </h1>
 
@@ -74,6 +74,6 @@ This Webapp uses the following open source packages:
 - [Firebase-as_backend](https://console.firebase.google.com/project/movie-zone-2ca05/overview)
 
 
-##  comming soon for all users on the internet 😊😊
+
 
 
